@@ -6,6 +6,9 @@
 
 ![Thumbnail of Cayman](thumbnail.png)
 
+https://github.com/analysteva/Project2/blob/637dcc9147a71adc4a34b70751bb7718c1058698/assets/img/KN_screen1.JPG
+<img> /assets/img/KN_screen1.JPG </img>
+
 ## Usage
 
 To use the Cayman theme:
