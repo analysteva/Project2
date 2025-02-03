@@ -7,7 +7,11 @@
 ![Thumbnail of Cayman](thumbnail.png)
 
 https://github.com/analysteva/Project2/blob/637dcc9147a71adc4a34b70751bb7718c1058698/assets/img/KN_screen1.JPG
-<img> /assets/img/KN_screen1.JPG </img>
+<img src="/assets/img/KN_screen1.jpg">
+
+*<a href="https://analysteva.github.io/Project1-/"> Full screen2 </a>*<BR>
+<img src="assets/img/KN_screen2.JPG" alt="Example Image" width="832" height="468">
+
 
 ## Usage
 
