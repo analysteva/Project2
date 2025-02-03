@@ -10,6 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+
+https://github.com/analysteva/Project2/blob/637dcc9147a71adc4a34b70751bb7718c1058698/assets/img/KN_screen1.JPG
+<img src="/assets/img/KN_screen1.jpg">
+
+*<a href="https://analysteva.github.io/Project1-/"> Full screen2 </a>*<BR>
+<img src="assets/img/KN_screen2.JPG" alt="Example Image" width="832" height="468">
+
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
