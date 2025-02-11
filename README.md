@@ -9,8 +9,8 @@ The project is based on open data published by the Central Statistical Office of
 <B>*Data source:*</B> <a href="https://stat.gov.pl/obszary-tematyczne/edukacja/edukacja/liczba-osob-ktore-przystapilyzdaly-egzamin-maturalny,15,1.html">https://stat.gov.pl/obszary-tematyczne/edukacja/edukacja/liczba-osob-ktore-przystapilyzdaly-egzamin-maturalny,15,1.html</a>
 
 ## Data Visualization:
-Below visuals have been made in Power BI desktop and describing results gathered from the dataset:
-<p>*Matura Exams Country-level data insights:*</p>
+Below visuals have been made in Power BI desktop and describing results gathered from the dataset:<BR>
+*Matura Exams Country-level data insights:* <BR>
 <p><img src="assets/img/PL_M1.JPG" alt="Example Image"></p>
 
 *Matura Exams Voivodeship-level data insights:* <BR>
